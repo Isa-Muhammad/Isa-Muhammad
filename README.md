@@ -2,7 +2,7 @@
 
 <br />
 
-📝Stats
+## 📝Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Isa-Muhammad)](https://git.io/streak-stats)
 
 <!--
