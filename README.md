@@ -1,4 +1,4 @@
-### Hi, I'm [Isa](https://isamuhammad.netlify.app/) 👋
+### Hi, I'm Isa 👋
 
 <br />
 
