@@ -1,4 +1,4 @@
-### Hi, I'm Isa.
+### Hi, I'm Isa
 
 <br />
 
