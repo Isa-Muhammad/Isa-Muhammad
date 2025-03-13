@@ -15,9 +15,10 @@ I’m a passionate software engineer with 4+ years of experience in frontend dev
 
 ## Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Isa-Muhammad)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Isa-Muhammad)](https://git.io/streak-stats)
 
 <!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Isa-Muhammad)](https://git.io/streak-stats)
 **Isa-Muhammad/Isa-Muhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
