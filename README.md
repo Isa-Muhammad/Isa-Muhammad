@@ -1,5 +1,17 @@
 ### Hi, I'm Isa.
 
+🚀 Software Engineer | Frontend | JavaScript Enthusiast
+
+I’m a passionate software engineer with 4+ years of experience in frontend development, building scalable web applications with **React, TypeScript, and Node.js**. I enjoy solving complex problems and improving user experience through clean, efficient code.
+
+
+### 🚀 About Me
+- 🔭 Currently building robust fintech solutions at **Callphone Limited (Airvend)**
+- 🌱 Improving my problem-solving skills with **Data Structures & Algorithms**
+- 💡 Passionate about **React, TypeScript, and Performance Optimization**
+- 🏋️‍♂️ Fitness and Natural Bodybuilding Enthusiast  
+- 📫 **Let's connect!** [LinkedIn](https://www.linkedin.com/in/isa-muhammad)
+
 <br />
 
 ## Stats
