@@ -8,8 +8,7 @@ I’m a passionate software engineer with 4+ years of experience in frontend dev
 ### 🚀 About Me
 - 🔭 Currently building robust fintech solutions at **Callphone Limited (Airvend)**
 - 🌱 Improving my problem-solving skills with **Data Structures & Algorithms**
-- 💡 Passionate about **React, TypeScript, and Performance Optimization**
-- 🏋️‍♂️ Fitness and Natural Bodybuilding Enthusiast  
+- 💡 Passionate about **React, TypeScript, and Performance Optimization** 
 - 📫 **Let's connect!** [LinkedIn](https://www.linkedin.com/in/isa-muhammad)
 
 <br />
