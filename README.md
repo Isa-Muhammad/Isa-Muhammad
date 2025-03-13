@@ -1,6 +1,6 @@
 ### Hi, I'm Isa.
 
-🚀 Software Engineer | Frontend | JavaScript Enthusiast
+Software Engineer | Frontend | JavaScript Enthusiast
 
 I’m a passionate software engineer with 4+ years of experience in frontend development, building scalable web applications with **React, TypeScript, and Node.js**. I enjoy solving complex problems and improving user experience through clean, efficient code.
 
